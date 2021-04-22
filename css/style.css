@@ -1,0 +1,318 @@
+
+/*STRAT SECTION ONE*/
+.backimg
+{
+    height:600px;
+    width:100%;
+    background-image: url('../images/img1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav
+{
+  
+    height:70px;
+    
+}
+.nav-1
+{
+    width:400px;
+    height:70px;
+   
+    float:left;
+}
+.nav-2
+{
+    width:600px;
+    height:70px;
+    
+    float:right;
+}
+.nav-1 .logo
+{
+    width:70px;
+    height:70px;
+    border-radius:100%;
+    margin-left:20px;
+    float:left;
+}
+.nav-1 .head
+{
+    float: left;
+    margin-left:5px;
+    color:#fff;
+    margin-top:-4px;
+}
+
+.head p{
+    font-size: 30px;  
+}
+.nav-2 div
+{
+    width:115px;
+    height:70px;
+    
+    float:left;
+    margin-left:5px;
+    font-size:25px;
+    text-align: center;
+    color:#fff;   
+}
+.nav-2 div:hover
+{
+background-color:rgb(190, 184, 184);
+}
+.nav-2 p
+{
+    margin-top:20px;
+}
+
+
+.cent .p1{
+    color:#fff;
+    font-size:35px;
+}
+.cent
+{
+    text-align:center;
+    margin-top:150px;
+}
+.cent .p2
+{
+    color:#fff;
+    font-size:20px;
+}
+.p1 span{
+    font-size:45px;
+    font-weight: bolder;
+}
+.blu{
+    width:100px;
+    height:40px;
+    background-color: rgb(114, 114, 224);
+    border:1px solid rgb(114, 114, 224);
+}
+.red
+{
+    width:100px;
+    height:40px;
+    background-color: rgb(224, 50, 50);
+    border:1px solid rgb(224, 50, 50);
+}
+.red:hover{
+    background-color:rgb(190, 184, 184);
+    border:1px solid rgb(190, 184, 184);
+}
+.blu:hover{
+    background-color:rgb(190, 184, 184);
+    border:1px solid rgb(190, 184, 184);
+}
+/*END SECTION ONE*/
+/****************************************************************************************************/
+/*********************************************************************************************/
+/*Start Section4*/
+.section4
+{
+height:520px;
+margin-top:20px;
+}
+.cont4
+{
+    width:90%;
+    margin-left:65px;
+}
+.part1
+{
+    float:left;
+    width:700px;
+    margin-top:50px;
+    margin-left:70px;
+    color:rgb(2, 5, 49)
+}
+.part1 p{
+    line-height: 1.5em;
+}
+.part2
+{
+    float:right;
+    margin-right:70px;
+   
+}
+.part2 img
+{
+    margin-top:50px;
+  
+    height:400px;
+    width:450px;
+    margin-left:9px;
+}
+.take
+{
+    width:150px;
+    height:40px;
+    background-color: rgb(218, 29, 29);
+    border:1px solid rgb(218, 29, 29);
+    font-size:15px;
+    color:#fff;
+}
+.take:hover
+{
+    background-color:rgb(190, 184, 184);
+    border:1px solid rgb(190, 184, 184);
+}
+/*End Section4*/
+/***************************************************************************************/
+/*Start Section 6*/
+.section6 .sec6{
+    width:100%;
+    height:990px;
+  
+}
+ .cont6
+{
+width:90%;
+margin-left:65px;
+background-color:#DDD;
+
+height:990px;
+}
+.section6 .sec6  .cont6 .left
+{
+    width:70%;
+    
+    height:920px;
+   
+    margin-top:35px;
+    float:left;
+}
+.left .top-left
+{
+
+width:940px;
+height:350px;
+margin-bottom:10px;
+}
+.left .center-left
+{
+
+width:940px;
+height:420px;
+}
+.left .center-left .part-left
+{
+   
+    width:470px;
+    height:420px; 
+    float:left; 
+}
+.left .center-left .part-right
+{
+    
+    width:460px;
+    height:420px;  
+    float:right;
+}
+.left .center-left .part-right .part-top
+{
+    width:460px;
+    height:245px;
+  
+    margin-bottom: 10px;
+}
+.left .center-left .part-right .part-down
+{
+    width:460px;
+    height:165px;
+    
+}
+.left .down-left
+{
+    width:940px;
+    height:131px;
+    margin-top:10px;
+    
+}
+/************************************************/
+.section6 .sec6  .cont6 .right
+{
+    width:29.5%;
+   
+    float:left;
+    height:920px;
+   
+    margin-top:35px;
+}
+
+.down-right img
+{
+width:400px;
+height:216px;
+}
+.top-right img{
+    width:400px;
+    height:700px;
+}
+/*End Section 6*/
+/**********************************************************************************************/
+.section8
+{
+    width:100%;
+    height:420px;
+   
+    margin-top:50px;
+}
+.section8 .largecontainer
+{
+    width:90%;
+    height:420px;
+    margin-left:65px;
+    background-image: url('../images/img10.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+.section8 .largecontainer .overlay
+{
+    width:100%;
+    height:420px;
+    top:0;
+    left:0;
+    background: rgba(2, 2, 2,0.5);
+    border:1px solid  rgba(248, 247, 247, 0.911);
+}
+.container .include{
+width:600px;
+height:100px;
+
+margin-top:40px;
+margin-left:50px;
+}
+.container .include2{
+    width:900px;
+    height:120px;
+    
+    margin-left:50px;
+    }
+.include h1
+{
+color:#fff;
+}
+.include2 p
+{
+    color:#fff;
+    line-height: 2em;
+}
+input 
+{
+    margin-left:50px;
+    width:250px;
+}
+button.sb
+{
+    margin-left:50px;
+    margin-top:20px;
+    background-color:rgb(230, 59, 59);
+    color:#fff;
+    height:40px;
+    border:1px solid rgb(230, 59, 59);
+}
